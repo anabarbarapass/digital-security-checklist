@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 Este projeto foi desenvolvido como parte dos meus estudos iniciais em Cyber Segurança.
-O foco é conscientizar usuários sobre riscos digitais comuns e apresentar boas práticas básicas de produção.
+O foco é conscientizar usuários sobre riscos digitais comuns e apresentar boas práticas básicas de proteção.
 
 ## Objetivo
 Reduzir a exposição de usuários iniciantes a golpes, vazamento de dados e acessos não autorizados por meio de um checklist prático e educativo.
