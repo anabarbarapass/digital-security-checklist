@@ -48,4 +48,5 @@ Ajudar usuários iniciantes a entender como se proteger contra golpes, vazamento
 
 ## Autora
 Ana Bárbara Passos Trindade
+
 Estutante de Ciência da Computação com interesse em Cyber Segurança
