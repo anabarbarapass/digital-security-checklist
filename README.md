@@ -45,7 +45,7 @@ Reduzir a exposição de usuários iniciantes a golpes, vazamento de dados e ace
 ### Redes
 - Evitar redes Wi-Fi públicas
 - Utilizar VPN quando necessário
-- 
+  
 **Risco mitigado:** Intercepção de dados
 
 ---
