@@ -20,6 +20,7 @@ Reduzir a exposição de usuários iniciantes a golpes, vazamento de dados e ace
 - Criar senhas longas e únicas
 - Não reutilizar senhas.
 - Utilizar um gerenciador de senhas
+
 **Risco mitigado:** Ataques de força bruta e vazamento de credenciais
 
 ---
@@ -27,22 +28,32 @@ Reduzir a exposição de usuários iniciantes a golpes, vazamento de dados e ace
 ### Autenticação 
 - Ativar autenticação em dois fatores (2FA)
 - Preferir aplicativos autenticadores
+
 **Risco mitigado:** Acesso indevido mesmo com senha comprometida
+
+---
 
 ### Phishing
 - Verificar remetente e domínio 
 - Não clicar em links suspeitos
 - Desconfiar de mensagens urgentes
+
 **Risco de mitigado:** Roubo de dados e sequestro de contas
+
+---
 
 ### Redes
 - Evitar redes Wi-Fi públicas
 - Utilizar VPN quando necessário
+- 
 **Risco mitigado:** Intercepção de dados
+
+---
 
 ### Atualizações 
 - Manter sistema operecional atualizado
 - Atualizar aplicativos regularmente
+
 **Risco mitigado:** Exploração de vulnerabilidade conhecidas
 
 ## Metodologia
